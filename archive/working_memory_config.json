@@ -1,0 +1,125 @@
+{
+  "user_settings": {
+    "challenges_per_session": 10,
+    "current_user": "default"
+  },
+  "game_meta_parameters": {
+    "digit_span": {
+      "backward_intro_level": 4,
+      "interference_intro_level": 7, 
+      "selective_recall_intro_level": 8,
+      "ordering_intro_level": 9,
+      "base_display_time": 1.0,
+      "display_time_reduction_per_level": 0.1,
+      "base_delay_time": 0.5,
+      "delay_time_reduction_per_level": 0.05,
+      "min_digits_level_1": 3,
+      "max_additional_digits_per_level": 1
+    }
+  },
+  "game_progress": {
+    "digit_span": {
+      "level": 1,
+      "upgrade": 0,
+      "highest_level_reached": 1,
+      "total_challenges": 0,
+      "successful_challenges": 0,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "avg_response_time": 0,
+      "next_challenge": {
+        "sequence_length": 3,
+        "display_time": 0.8,
+        "inter_digit_delay": 0.4,
+        "backward": false,
+        "interference": false,
+        "manipulation": null,
+        "instruction": "Remember the digits in order"
+      }
+    },
+    "n_back": {
+      "level": 1,
+      "upgrade": 0,
+      "highest_level_reached": 1,
+      "total_challenges": 0,
+      "successful_challenges": 0,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "avg_response_time": 0
+    },
+    "spatial_pattern": {
+      "level": 1,
+      "upgrade": 0,
+      "highest_level_reached": 1,
+      "total_challenges": 0,
+      "successful_challenges": 0,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "avg_response_time": 0
+    },
+    "shopping_list": {
+      "level": 1,
+      "upgrade": 0,
+      "highest_level_reached": 1,
+      "total_challenges": 0,
+      "successful_challenges": 0,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "avg_response_time": 0
+    },
+    "mental_math": {
+      "level": 1,
+      "upgrade": 0,
+      "highest_level_reached": 1,
+      "total_challenges": 0,
+      "successful_challenges": 0,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "avg_response_time": 0
+    },
+    "story_details": {
+      "level": 1,
+      "upgrade": 0,
+      "highest_level_reached": 1,
+      "total_challenges": 0,
+      "successful_challenges": 0,
+      "current_streak": 0,
+      "longest_streak": 0,
+      "avg_response_time": 0
+    }
+  },
+  "game_history": [
+    {
+      "timestamp": "2025-04-23T11:40:38",
+      "game": "digit_span",
+      "level": 1,
+      "success": false,
+      "response_time": 5.287220478057861,
+      "upgrade_progress": -1
+    },
+    {
+      "timestamp": "2025-04-23T11:41:02",
+      "game": "digit_span",
+      "level": 1,
+      "success": true,
+      "response_time": 4.250765562057495,
+      "upgrade_progress": 0
+    },
+    {
+      "timestamp": "2025-04-23T11:41:12",
+      "game": "digit_span",
+      "level": 1,
+      "success": true,
+      "response_time": 1.25148344039917,
+      "upgrade_progress": 1
+    },
+    {
+      "timestamp": "2025-04-23T11:41:20",
+      "game": "digit_span",
+      "level": 1,
+      "success": true,
+      "response_time": 3.7076902389526367,
+      "upgrade_progress": 2
+    }
+  ]
+}

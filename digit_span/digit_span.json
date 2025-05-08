@@ -1,0 +1,24 @@
+{
+  "level": 1,
+  "upgrade": 2,
+  "highest_level_reached": 1,
+  "total_challenges": 2,
+  "successful_challenges": 2,
+  "current_streak": 2,
+  "longest_streak": 2,
+  "avg_response_time": 3.1964527368545532,
+  "next_challenge": {
+    "sequence_length": 4,
+    "display_time": 1.0,
+    "inter_digit_delay": 0.5,
+    "backward": false,
+    "interference": false,
+    "manipulation": null,
+    "instruction": "Remember the digits in order"
+  },
+  "current_sequence": [
+    5,
+    3,
+    7
+  ]
+}

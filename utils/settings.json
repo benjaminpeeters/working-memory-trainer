@@ -1,0 +1,60 @@
+{
+  "user_settings": {
+    "challenges_per_session": 2,
+    "current_user": "default"
+  },
+  "game_meta_parameters": {
+    "digit_span": {
+      "backward_intro_level": 4,
+      "interference_intro_level": 7,
+      "selective_recall_intro_level": 8,
+      "ordering_intro_level": 9,
+      "base_display_time": 1.0,
+      "display_time_reduction_per_level": 0.1,
+      "base_delay_time": 0.5,
+      "delay_time_reduction_per_level": 0.05,
+      "min_digits_level_1": 3,
+      "max_additional_digits_per_level": 1
+    },
+    "n_back": {
+      "base_n_value": 1,
+      "items_per_level": 20,
+      "max_n_value": 5,
+      "display_time_base": 2.0,
+      "display_time_reduction_per_level": 0.15,
+      "chance_of_match": 0.3
+    },
+    "spatial_pattern": {
+      "grid_size_base": 5,
+      "grid_size_increase_every_n_levels": 2,
+      "max_grid_size": 9,
+      "min_cells_level_1": 5,
+      "max_additional_cells_per_level": 2,
+      "display_time_base": 3.0,
+      "display_time_reduction_per_level": 0.0,
+      "multiple_highlights_intro_level": 5,
+      "interference_intro_level": 7
+    },
+    "shopping_list": {
+      "min_items_level_1": 3,
+      "max_additional_items_per_level": 2,
+      "display_time_per_item": 1.2,
+      "category_grouping_intro_level": 4,
+      "distraction_intro_level": 7
+    },
+    "mental_math": {
+      "operations_level_1": 2,
+      "max_operations": 8,
+      "max_value_level_1": 10,
+      "max_value_increment_per_level": 5,
+      "intermediate_result_frequency": 0.3
+    },
+    "story_details": {
+      "word_count_base": 50,
+      "word_count_increment_per_level": 25,
+      "questions_level_1": 3,
+      "max_questions": 8,
+      "detail_specificity_increase_per_level": 0.2
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "background": {
+    "game": "#000000",
+    "nongame": "#262626",
+    "input": "#4D4D4D"
+  },
+  "foreground": {
+    "success": "#00FF00",
+    "info": "#00FFFF",
+    "warning": "#FFFF00",
+    "error": "#FF0000",
+    "standard": "#FFFFFF",
+    "dim": "#AAAAAA"
+  },
+  "special": {
+    "countdown": "#FFFF00",
+    "instruction": "#00FFFF",
+    "digit": "#FFFFFF"
+  }
+}

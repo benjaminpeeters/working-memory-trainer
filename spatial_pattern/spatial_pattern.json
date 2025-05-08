@@ -1,0 +1,62 @@
+{
+  "level": 2,
+  "upgrade": 2,
+  "highest_level_reached": 2,
+  "total_challenges": 28,
+  "successful_challenges": 20,
+  "current_streak": 1,
+  "longest_streak": 13,
+  "avg_response_time": 8.07426152910505,
+  "next_challenge": {
+    "grid_size": 5,
+    "pattern_size": 7,
+    "display_time": 3.0,
+    "interference": false,
+    "use_multiple_highlights": false,
+    "instruction": "Remember the pattern with 7 highlighted cells"
+  },
+  "current_pattern": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      4,
+      2
+    ]
+  ],
+  "current_highlights": {
+    "(0, 1)": "\u2588\u2588",
+    "(0, 4)": "\u2588\u2588",
+    "(1, 0)": "\u2588\u2588",
+    "(2, 2)": "\u2588\u2588",
+    "(2, 4)": "\u2588\u2588",
+    "(3, 0)": "\u2588\u2588",
+    "(4, 0)": "\u2588\u2588",
+    "(4, 2)": "\u2588\u2588"
+  }
+}

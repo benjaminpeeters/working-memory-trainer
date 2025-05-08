@@ -1,0 +1,527 @@
+[
+  {
+    "timestamp": "2025-04-23T11:40:38",
+    "game": "digit_span",
+    "level": 1,
+    "success": false,
+    "response_time": 5.287220478057861,
+    "upgrade_progress": -1
+  },
+  {
+    "timestamp": "2025-04-23T11:41:02",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 4.250765562057495,
+    "upgrade_progress": 0
+  },
+  {
+    "timestamp": "2025-04-23T11:41:12",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 1.25148344039917,
+    "upgrade_progress": 1
+  },
+  {
+    "timestamp": "2025-04-23T11:41:20",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 3.7076902389526367,
+    "upgrade_progress": 2
+  },
+  {
+    "timestamp": "2025-04-23T22:14:24",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 3.7903964519500732,
+    "upgrade_progress": 3,
+    "user_answer": "728"
+  },
+  {
+    "timestamp": "2025-04-23T22:14:38",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 3.9219563007354736,
+    "upgrade_progress": 4,
+    "user_answer": "617"
+  },
+  {
+    "timestamp": "2025-04-23T22:14:55",
+    "game": "digit_span",
+    "level": 1,
+    "success": false,
+    "response_time": 5.1617467403411865,
+    "upgrade_progress": 3,
+    "user_answer": "8926"
+  },
+  {
+    "timestamp": "2025-04-23T22:15:15",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 3.422942638397217,
+    "upgrade_progress": 4,
+    "user_answer": "2416"
+  },
+  {
+    "timestamp": "2025-04-24T08:41:10",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 2.491266965866089,
+    "upgrade_progress": 5,
+    "user_answer": "8374"
+  },
+  {
+    "timestamp": "2025-04-24T09:23:20",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 3.2070934772491455,
+    "upgrade_progress": 6,
+    "user_answer": "4026"
+  },
+  {
+    "timestamp": "2025-04-24T09:24:02",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 3.1314024925231934,
+    "upgrade_progress": 7,
+    "user_answer": "2473"
+  },
+  {
+    "timestamp": "2025-04-24T09:49:16",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 2.8856852054595947,
+    "upgrade_progress": 8,
+    "user_answer": "5859"
+  },
+  {
+    "timestamp": "2025-04-24T10:00:36",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 11.474128723144531,
+    "upgrade_progress": 9,
+    "user_answer": "648"
+  },
+  {
+    "timestamp": "2025-04-24T10:16:40",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 3.4090654850006104,
+    "upgrade_progress": 1,
+    "user_answer": "164"
+  },
+  {
+    "timestamp": "2025-04-24T10:17:41",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 2.983839988708496,
+    "upgrade_progress": 2,
+    "user_answer": "537"
+  },
+  {
+    "timestamp": "2025-04-24T10:22:28",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 126.84646677970886,
+    "upgrade_progress": 3,
+    "user_answer": "1729"
+  },
+  {
+    "timestamp": "2025-04-24T10:39:22",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 3.5255892276763916,
+    "upgrade_progress": 4,
+    "user_answer": "948"
+  },
+  {
+    "timestamp": "2025-04-24T10:40:06",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 3.306161642074585,
+    "upgrade_progress": 5,
+    "user_answer": "497"
+  },
+  {
+    "timestamp": "2025-04-24T10:40:23",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 2.774289608001709,
+    "upgrade_progress": 6,
+    "user_answer": "1537"
+  },
+  {
+    "timestamp": "2025-04-24T10:40:37",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 2.331469774246216,
+    "upgrade_progress": 7,
+    "user_answer": "6151"
+  },
+  {
+    "timestamp": "2025-04-24T10:41:12",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 2.6729114055633545,
+    "upgrade_progress": 8,
+    "user_answer": "379"
+  },
+  {
+    "timestamp": "2025-04-24T10:41:26",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 2.05824613571167,
+    "upgrade_progress": 9,
+    "user_answer": "281"
+  },
+  {
+    "timestamp": "2025-04-24T10:41:40",
+    "game": "digit_span",
+    "level": 1,
+    "success": true,
+    "response_time": 2.4052956104278564,
+    "upgrade_progress": 0,
+    "user_answer": "427"
+  },
+  {
+    "timestamp": "2025-04-24T10:45:58",
+    "game": "digit_span",
+    "level": 2,
+    "success": true,
+    "response_time": 2.5280470848083496,
+    "upgrade_progress": 1,
+    "user_answer": "2353"
+  },
+  {
+    "timestamp": "2025-04-24T10:46:17",
+    "game": "digit_span",
+    "level": 2,
+    "success": true,
+    "response_time": 3.4879086017608643,
+    "upgrade_progress": 2,
+    "user_answer": "19581"
+  },
+  {
+    "timestamp": "2025-04-24T10:46:37",
+    "game": "digit_span",
+    "level": 2,
+    "success": true,
+    "response_time": 3.6008193492889404,
+    "upgrade_progress": 3,
+    "user_answer": "16968"
+  },
+  {
+    "timestamp": "2025-04-24T10:46:55",
+    "game": "digit_span",
+    "level": 2,
+    "success": true,
+    "response_time": 3.429239273071289,
+    "upgrade_progress": 4,
+    "user_answer": "8408"
+  },
+  {
+    "timestamp": "2025-04-24T11:00:03",
+    "game": "digit_span",
+    "level": 2,
+    "success": true,
+    "response_time": 2.584346294403076,
+    "upgrade_progress": 5,
+    "user_answer": "8358"
+  },
+  {
+    "timestamp": "2025-04-24T11:00:24",
+    "game": "digit_span",
+    "level": 2,
+    "success": true,
+    "response_time": 3.7182350158691406,
+    "upgrade_progress": 6,
+    "user_answer": "53602"
+  },
+  {
+    "timestamp": "2025-04-24T11:00:44",
+    "game": "digit_span",
+    "level": 2,
+    "success": true,
+    "response_time": 4.76805853843689,
+    "upgrade_progress": 7,
+    "user_answer": "74969"
+  },
+  {
+    "timestamp": "2025-04-24T11:54:25",
+    "game": "digit_span",
+    "level": 2,
+    "success": true,
+    "response_time": 4.389766216278076,
+    "upgrade_progress": 8,
+    "user_answer": [
+      4,
+      0,
+      9,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:05:54",
+    "game": "digit_span",
+    "level": 2,
+    "success": true,
+    "response_time": 4.332502126693726,
+    "upgrade_progress": 9,
+    "user_answer": [
+      1,
+      3,
+      6,
+      8
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T18:09:51",
+    "game": "digit_span",
+    "level": 2,
+    "success": true,
+    "response_time": 2.957353353500366,
+    "upgrade_progress": 0,
+    "user_answer": [
+      3,
+      0,
+      8,
+      9
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T18:10:14",
+    "game": "digit_span",
+    "level": 3,
+    "success": true,
+    "response_time": 2.6689682006835938,
+    "upgrade_progress": 1,
+    "user_answer": [
+      5,
+      8,
+      4,
+      6
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T18:10:34",
+    "game": "digit_span",
+    "level": 3,
+    "success": true,
+    "response_time": 3.046029567718506,
+    "upgrade_progress": 2,
+    "user_answer": [
+      1,
+      4,
+      4,
+      9,
+      2
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:16:06",
+    "game": "digit_span",
+    "level": 3,
+    "success": false,
+    "response_time": 0,
+    "upgrade_progress": 1
+  },
+  {
+    "timestamp": "2025-04-24T19:16:24",
+    "game": "digit_span",
+    "level": 3,
+    "success": true,
+    "response_time": 2.472296953201294,
+    "upgrade_progress": 2,
+    "user_answer": [
+      3,
+      1,
+      4,
+      3,
+      0
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:17:12",
+    "game": "digit_span",
+    "level": 3,
+    "success": true,
+    "response_time": 3.0034782886505127,
+    "upgrade_progress": 3,
+    "user_answer": [
+      3,
+      0,
+      8,
+      7,
+      7
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:17:40",
+    "game": "digit_span",
+    "level": 3,
+    "success": true,
+    "response_time": 2.473177671432495,
+    "upgrade_progress": 4,
+    "user_answer": [
+      5,
+      5,
+      2,
+      6,
+      6
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:18:03",
+    "game": "digit_span",
+    "level": 3,
+    "success": true,
+    "response_time": 2.1586596965789795,
+    "upgrade_progress": 5,
+    "user_answer": [
+      8,
+      1,
+      4,
+      6,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:18:24",
+    "game": "digit_span",
+    "level": 3,
+    "success": true,
+    "response_time": 1.5634348392486572,
+    "upgrade_progress": 6,
+    "user_answer": [
+      0,
+      0,
+      4,
+      2,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:18:45",
+    "game": "digit_span",
+    "level": 3,
+    "success": true,
+    "response_time": 2.1513829231262207,
+    "upgrade_progress": 7,
+    "user_answer": [
+      4,
+      3,
+      4,
+      6,
+      3
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:20:19",
+    "game": "digit_span",
+    "level": 5,
+    "success": true,
+    "response_time": 1.7161188125610352,
+    "upgrade_progress": 8,
+    "user_answer": [
+      9,
+      6,
+      6,
+      1,
+      4
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:21:45",
+    "game": "digit_span",
+    "level": 5,
+    "success": false,
+    "response_time": 0,
+    "upgrade_progress": 7
+  },
+  {
+    "timestamp": "2025-04-24T19:22:21",
+    "game": "digit_span",
+    "level": 5,
+    "success": true,
+    "response_time": 11.026767015457153,
+    "upgrade_progress": 8,
+    "user_answer": [
+      9,
+      8,
+      8,
+      3,
+      2,
+      1,
+      6
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:23:12",
+    "game": "digit_span",
+    "level": 5,
+    "success": true,
+    "response_time": 14.034136056900024,
+    "upgrade_progress": 9,
+    "user_answer": [
+      5,
+      4,
+      8,
+      2,
+      2,
+      4,
+      3
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:23:31",
+    "game": "digit_span",
+    "level": 5,
+    "success": true,
+    "response_time": 3.567284345626831,
+    "upgrade_progress": 0,
+    "user_answer": [
+      8,
+      6,
+      0,
+      0,
+      4,
+      0,
+      8
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:26:25",
+    "game": "digit_span",
+    "level": 10,
+    "success": false,
+    "response_time": 0,
+    "upgrade_progress": -1
+  },
+  {
+    "timestamp": "2025-04-24T19:28:10",
+    "game": "digit_span",
+    "level": 10,
+    "success": false,
+    "response_time": 0,
+    "upgrade_progress": -2
+  }
+]

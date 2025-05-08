@@ -1,0 +1,874 @@
+[
+  {
+    "timestamp": "2025-04-24T11:10:59",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": false,
+    "response_time": 19.5659921169281,
+    "upgrade_progress": -1,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T11:11:19",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 3.436924457550049,
+    "upgrade_progress": 0,
+    "user_answer": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        1
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T11:11:36",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 2.608415365219116,
+    "upgrade_progress": 1,
+    "user_answer": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T11:11:50",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 2.6670963764190674,
+    "upgrade_progress": 2,
+    "user_answer": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T11:21:23",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 11.215890884399414,
+    "upgrade_progress": 3,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T11:21:41",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 3.553133726119995,
+    "upgrade_progress": 4,
+    "user_answer": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T11:26:02",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 4.71010684967041,
+    "upgrade_progress": 5,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T11:54:49",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 5.465366363525391,
+    "upgrade_progress": 6,
+    "user_answer": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:06:13",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 4.466499328613281,
+    "upgrade_progress": 7,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:08:08",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 4.005363702774048,
+    "upgrade_progress": 8,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        0
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:08:19",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 3.0433859825134277,
+    "upgrade_progress": 9,
+    "user_answer": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:08:30",
+    "game": "spatial_pattern",
+    "level": 1,
+    "success": true,
+    "response_time": 3.816457509994507,
+    "upgrade_progress": 0,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:08:47",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": true,
+    "response_time": 7.374812602996826,
+    "upgrade_progress": 1,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        0,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:09:02",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": true,
+    "response_time": 6.970334768295288,
+    "upgrade_progress": 2,
+    "user_answer": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:09:13",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": false,
+    "response_time": 3.2956700325012207,
+    "upgrade_progress": 1,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:10:20",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": false,
+    "response_time": 4.646528005599976,
+    "upgrade_progress": 0,
+    "user_answer": [
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:10:32",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": false,
+    "response_time": 5.985930919647217,
+    "upgrade_progress": -1,
+    "user_answer": [
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:11:22",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": true,
+    "response_time": 4.9507668018341064,
+    "upgrade_progress": 0,
+    "user_answer": [
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        4
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T12:11:36",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": true,
+    "response_time": 4.541555404663086,
+    "upgrade_progress": 1,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        4
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T18:06:31",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": false,
+    "response_time": 13.394561529159546,
+    "upgrade_progress": 0,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T18:06:47",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": true,
+    "response_time": 7.806180715560913,
+    "upgrade_progress": 1,
+    "user_answer": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T18:07:09",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": true,
+    "response_time": 7.006283283233643,
+    "upgrade_progress": 2,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T18:07:34",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": true,
+    "response_time": 12.092419862747192,
+    "upgrade_progress": 3,
+    "user_answer": [
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        3
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:28:32",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": false,
+    "response_time": 10.777367115020752,
+    "upgrade_progress": 2,
+    "user_answer": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        4
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:28:44",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": true,
+    "response_time": 4.882232904434204,
+    "upgrade_progress": 3,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        0,
+        3
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:29:46",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": false,
+    "response_time": 38.67751145362854,
+    "upgrade_progress": 2,
+    "user_answer": [
+      [
+        4,
+        1
+      ],
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        4,
+        2
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:30:14",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": false,
+    "response_time": 15.148254156112671,
+    "upgrade_progress": 1,
+    "user_answer": [
+      [
+        0,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        4,
+        3
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-04-24T19:30:34",
+    "game": "spatial_pattern",
+    "level": 2,
+    "success": true,
+    "response_time": 9.974280595779419,
+    "upgrade_progress": 2,
+    "user_answer": [
+      [
+        1,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        0,
+        4
+      ]
+    ]
+  }
+]
